@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lifecycle</string>
+    <string name="oncreate">In onCreate()</string>
+    <string name="ondestroy">In onDestroy()</string>
+    <string name="onpause">In onPause()</string>
+    <string name="onresume">In onResume()</string>
+    <string name="onstart">In onStart()</string>
+    <string name="onstop">In onStop()</string>
+    <string name="onrestart">In onRestart()</string>
+</resources>
